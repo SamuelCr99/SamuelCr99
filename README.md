@@ -1,4 +1,6 @@
-### Welcome to my GitHub profile! I'm a computer science student passionate about problem-solving and software development. Here you'll find a collection of my projects, showcasing my skills in Python and C++. I love working on challenging projects and exploring various domains within computer science.
+### Welcome to my GitHub profile! 
+
+I'm a computer science student passionate about problem-solving and software development. Here you'll find a collection of my projects, showcasing my skills in Python and C++. I love working on challenging projects and exploring various domains within computer science.
 
 <!--
 **SamuelCr99/SamuelCr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
